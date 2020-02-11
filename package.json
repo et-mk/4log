@@ -121,7 +121,7 @@
     "prettier": "^1.19.1",
     "react-docgen-typescript-webpack-plugin": "^1.1.0",
     "typescript": "^3.7.3",
-    "webpack": "^4.41.2"
+    "webpack": "^4.41.6"
   },
   "husky": {
     "hooks": {
